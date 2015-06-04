@@ -1,0 +1,45 @@
+body {
+  font-family: Arial;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+section {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  margin-left:-30%;
+}
+
+#wenevergooutofstyle {
+  font-size: 35px;
+  color: #E03;
+  font-family: Comic;
+  text-decoration: underline;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.question {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: #444;
+}
+
+.answer {
+  text-indent: 3em;
+  color: #833;
+}
+
+h1 {
+  /*if this wasn't commented, what would happen? */
+  /*text-align: right;*/
+}
