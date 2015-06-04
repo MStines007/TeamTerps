@@ -14,14 +14,14 @@ h1 {
 }
 
 img {
-  margin-left:-30%;
+  max-width:100%;
 }
 
 #wenevergooutofstyle {
   font-size: 35px;
   color: #E03;
   font-family: Comic;
-  text-decoration: underline;
+  text-decoration:;
 }
 
 .completed {
